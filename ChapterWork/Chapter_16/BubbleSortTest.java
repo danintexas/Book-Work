@@ -5,7 +5,6 @@ Feb 2, 2015
 Chapter 16
 Code Listing 16-2
 */
-package Chapter_16;
 
 /**
  * This program tests the bubbleSort method in the 

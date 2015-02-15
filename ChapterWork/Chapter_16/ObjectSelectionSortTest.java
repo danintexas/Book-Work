@@ -6,8 +6,6 @@
  * Code Listing 16-8
  */
 
-package Chapter_16;
-
 /**
  * This program tests the selectionSort method in the 
  * ObjectSelectionSorter class.

@@ -6,14 +6,13 @@
  * Code Listing 16-15
 */
 
-package Chapter_16;
-
 import java.util.Scanner;
 
 /**
  * This program demonstrates the search method in 
  * the IntBinarySearcher class.
  */
+
 public class BinarySearchTest 
 {
     public static void main(String[] args)

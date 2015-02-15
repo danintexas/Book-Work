@@ -6,8 +6,6 @@
  * Code Listing 16-10
  */
 
-package Chapter_16;
-
 /**
  * This program tests the insertionSort method in the 
  * IntInsertionSorter class.

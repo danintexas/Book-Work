@@ -6,8 +6,6 @@ Chapter 16
 Code Listing 16-4
 */
 
-package Chapter_16;
-
 /**
  * This program tests the bubbleSort method in the 
  * ObjectBubbleSorter class.

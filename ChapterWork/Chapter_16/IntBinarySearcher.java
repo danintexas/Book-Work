@@ -6,8 +6,6 @@ Chapter 16
 Code Listing 16-14
 */
 
-package Chapter_16;
-
 /**
  * The IntBinarySearcher class provides a public static
  * method for performing a binary search on an int array.

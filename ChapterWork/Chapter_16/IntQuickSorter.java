@@ -7,8 +7,6 @@
  * class website.
 */
 
-package Chapter_16;
-
 /**
    The IntQuickSorter class provides a public static
    method for performing a QuickSort on an int array.

@@ -6,8 +6,6 @@ Chapter 7
 Code Listing 16-7
 */
 
-package Chapter_16;
-
 /*
     The ObjectSelectionSorter class provides a public static
     method for performing a selection sort on an array of

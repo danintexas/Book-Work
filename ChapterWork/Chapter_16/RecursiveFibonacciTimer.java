@@ -6,8 +6,6 @@
  * Code Listing 16-18
  */
 
-package Chapter_16;
-
 /**
  * This program times calls to the recursive Fibonacci method
  * for 6 consecutive calls and displays the results.

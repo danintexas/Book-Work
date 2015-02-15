@@ -6,8 +6,6 @@ Chapter 16
 Code Listing 16-3
 */
 
-package Chapter_16;
-
 /**
  * The ObjectBubbleSorter class provides a public static
  * method for performing a bubble sort on an array of

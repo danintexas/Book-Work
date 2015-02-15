@@ -6,8 +6,6 @@ Chapter 16
 Code Listing 16-12
 */
 
-package Chapter_16;
-
 /**
  * The IntSequentialSearcher class provides a public static
  * method for performing a sequential search on an int array.

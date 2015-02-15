@@ -6,8 +6,6 @@
  * Code Listing 16-9
 */
 
-package Chapter_16;
-
 /**
  * The IntInsertonSorter class provides a public static
  * method for performing an insertion sort on an int array.

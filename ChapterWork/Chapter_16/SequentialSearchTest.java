@@ -6,8 +6,6 @@ Chapter 16
 Code Listing 16-13
 */
 
-package Chapter_16;
-
 /**
  * This program sequentially searches an
  * int array for a specified value.

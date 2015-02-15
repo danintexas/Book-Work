@@ -6,8 +6,6 @@
  * Code Listing 16-17
  */
 
-package Chapter_16;
-
 import java.util.Scanner;
 
 /**

@@ -6,7 +6,6 @@
  * Code Listing 16-16
  */
 
-package Chapter_16;
 
 /**
  * The RecursiveBinarySearcher class provides a public static

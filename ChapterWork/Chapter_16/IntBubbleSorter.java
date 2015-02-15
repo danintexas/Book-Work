@@ -5,7 +5,6 @@ Feb 2, 2015
 Chapter 16
 Code Listing 16-1
 */
-package Chapter_16;
 
 /*
     The IntBubbleSorter class provides a public static

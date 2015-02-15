@@ -6,8 +6,6 @@ Chapter 16
 Code Listing 16-5
 */
 
-package Chapter_16;
-
 /**
  * The IntSelectionSorter class provides a public static
  * method for performing a selection sort on an int array.
