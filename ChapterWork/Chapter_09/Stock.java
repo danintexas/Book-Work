@@ -90,4 +90,11 @@ public class Stock
         // Return a reference to the new object. 
         return copyObject;
     }
+    
+    // March 5, 2015   
+    public Stock(Stock object2)
+    {
+        symbol = object2.symbol;
+        sharePrice = object2.sharePrice;
+    }
 }
