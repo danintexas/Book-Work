@@ -6,8 +6,6 @@ Chapter 9
 Code Listing 9-12
 */
 
-package Chapter_09;
-
 /**
  * This class stores data about an instructor.
  */

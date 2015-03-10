@@ -6,8 +6,6 @@ Chapter 9
 Code Listing 9-16
 */
 
-package Chapter_09;
-
 /**
  * This class stores a person's first, last, and middle
  * names. The class is dangerous because it does not

@@ -6,8 +6,6 @@ Chapter 9
 Code Listing 9-19
 */
 
-package Chapter_09;
-
 /**
  * CarType enumerated data type
  */

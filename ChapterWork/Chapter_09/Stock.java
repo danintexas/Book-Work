@@ -6,8 +6,6 @@ Chapter 9
 Code Listing 9-8
 */
 
-package Chapter_09;
-
 /**
  * The Stock class holds data about a stock.
  */

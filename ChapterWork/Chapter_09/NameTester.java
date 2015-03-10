@@ -6,8 +6,6 @@ Chapter 9
 Code Listing 9-17
 */
 
-package Chapter_09;
-
 /**
  * This program creates a FullName object, and then 
  * calls the object's getLength method before values

@@ -6,8 +6,6 @@ Chapter 9
 Code Listing 9-9
 */
 
-package Chapter_09;
-
 /**
  * This program demonstrates the Stock class's
  * toString method.

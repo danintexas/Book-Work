@@ -6,8 +6,6 @@ Chapter 9
 Code Listing 9-10
 */
 
-package Chapter_09;
-
 /**
  * This program uses the Stock class's equals
  * method to compare two Stock objects.

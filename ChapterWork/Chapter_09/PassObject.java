@@ -4,7 +4,7 @@ Feb 18, 2015
 
 Chapter 9
 Code Listing 9-5
-*/;
+*/
 
 /**
  * This program passes an object as an argument.

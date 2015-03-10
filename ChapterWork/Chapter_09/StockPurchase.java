@@ -6,8 +6,6 @@ Chapter 9
 Code Listing 9-24
 */
 
-package Chapter_09;
-
 /**
  * The StockPurchase class represents a stock purchase.
  */

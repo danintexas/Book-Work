@@ -6,8 +6,6 @@ Chapter 9
 Code Listing 9-25
 */
 
-package Chapter_09;
-
 import java.util.Scanner;
 import java.text.DecimalFormat;
 

@@ -6,8 +6,6 @@ Chapter 9
 Code Listing 9-7
 */
 
-package Chapter_09;
-
 import javax.swing.JOptionPane;
 
 /**

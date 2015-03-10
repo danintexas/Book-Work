@@ -6,8 +6,6 @@ Chapter 9
 Code Listing 9-14
 */
 
-package Chapter_09;
-
 /**
  * This class stores data about a course.
  */

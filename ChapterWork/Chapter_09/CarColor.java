@@ -6,8 +6,6 @@ Chapter 9
 Code Listing 9-20
 */
 
-package Chapter_09;
-
 /**
  * CarColor enumerated data type
  */

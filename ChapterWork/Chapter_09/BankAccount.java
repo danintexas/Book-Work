@@ -5,8 +5,6 @@ March 3, 2015
 Copy of the BankAccount class from Chapter 6
 */
 
-package Chapter_09;
-
 /**
  * The BankAccount class simulates a bank account.
  */

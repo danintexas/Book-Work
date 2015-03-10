@@ -6,8 +6,6 @@ Chapter 9
 Code Listing 9-18
 */
 
-package Chapter_09;
-
 /**
  * This program demonstrates an enumerated type. 
  */
