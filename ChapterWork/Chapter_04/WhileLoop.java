@@ -1,18 +1,18 @@
 /*
-Daniel gail
-Dec 8, 2014
+Daniel Gail
+May 24, 2015
 
 Chapter 4
 Code Listing 4-3
-Page 198 - 199
 */
 
-/*
-    This program demonstrates the while loop. 
-*/
+/**
+ * This program demonstrates the while loop.
+ */
+
 public class WhileLoop 
 {
-    public static void main (String [] args)
+    public static void main(String[] args)
     {
         int number = 1;
         
