@@ -1,0 +1,12 @@
+/*
+Daniel Gail
+11/30/15
+
+Chapter 2
+Code Listing 2-27
+ */
+ 
+public class Compact {public static void main(String[] args){int
+        shares=220; double averagePrice=14.67; System.out.println(
+        "There were "+shares+" shares sold at $"+averagePrice+
+        " per share.");}}
