@@ -1,6 +1,6 @@
 /*
 Daniel Gail
-12/18/15
+12/19/15
 
 Chapter 3
 Programming Challenge 12
